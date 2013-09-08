@@ -17,6 +17,8 @@ todo
 ====
 
 [ ] Decide language
+
 [ ] Decipher replay file codes
+
 [ ] Create databse of cards from cards*.xml
 
